@@ -166,3 +166,15 @@ a.secondary {
     filter: invert();
   }
 }
+
+.Link{
+  color: white;
+}
+
+.Link:hover{
+  color: red;
+}
+
+.specialLink{
+  color: rgb(166, 255, 0);
+}
